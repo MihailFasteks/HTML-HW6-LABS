@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+thead{
+    background-color: darkgreen;
+
+    color: aliceblue;
+    padding: 20px;
+}
+table{
+    border-spacing: 0px;
+}
+thead tr th, tbody td{
+    width: 200px;
+    height:50px;
+}

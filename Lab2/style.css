@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+    background-color: gold;
+}
+table{
+    border-spacing: 0px;
+}
+thead tr th{
+    color: aliceblue;
+    background-color: black;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+}
+tbody tr td{
+    height: 30px;
+    text-align: center;
+}
